@@ -1,0 +1,7 @@
+{
+  "name": "comicrelief/wideimage",
+  "description": "WideImage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
